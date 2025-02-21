@@ -7,21 +7,14 @@
 - 🔭 Actualmente estoy trabajando en varios proyectos de código abierto.
 - 🌱 Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
 - 💬 Pregúntame sobre cualquier cosa relacionada con el desarrollo web, ingeniería de software y más.
+
 ## Lenguajes y Herramientas
 
 Estas son algunas de las tecnologías con las que trabajo:
 
 - **Lenguajes:** JavaScript, Python, Java
 - **Herramientas:** Git, VS Code, IntelliJ IDEA
-
-## Mejores proyectos
-
-### Proyecto 1: FrozenLab
-Descripción: Mejor deberias probarla 😉 IP: proximamente...
-
-### Proyecto 2: JCorr
-Descripción: Todo en uno
-
+- 
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub de Josiel](https://github-readme-stats.vercel.app/api?username=josielcm&show_icons=true&theme=radical)
