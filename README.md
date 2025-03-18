@@ -11,7 +11,7 @@ If you want to contact me you can send me a request on Discord: josielcm
 * 🚀  I'm currently working on [Hylexia Network](http://discord.gg/VVRmj3RUY8)
 * 🧠  I'm learning Database and Advanced Mathematics
 * 🤝  I'm open to collaborating on Interesting and ambitious projects
-* ⚡  I Love Linkin Park
+* 🤘🏻  I Love Linkin Park
 
 ### Skills  
 
