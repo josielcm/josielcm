@@ -6,7 +6,7 @@ I'm currently studying: Software Development Engineering
 I am open to collaborating on ambitious projects, I love creating projects and exploring my capabilities in them.
 
 If you want to contact me you can send me a request on Discord: josielcm  
-* 👀  Portfolio [Click here}(https://josielcm.vercel.app/)
+* 👀  Portfolio [Click here!](https://josielcm.vercel.app/)
 * ✉️  You can contact me at [josielcm87@gmail.com](mailto:josielcm87@gmail.com)
 * 🧠  I'm learning Databases and Advanced Mathematics
 * 🤝  I'm open to collaborating on Interesting and ambitious projects
